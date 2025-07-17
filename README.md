@@ -1,5 +1,5 @@
 # Sistema Inteligente de Monitoreo Sísmico Global
-
+By Frembo
 ## 🎯 Descripción
 Sistema web full-stack para monitoreo de eventos sísmicos en tiempo real con visualización en mapa interactivo, gestión de usuarios y noticias.
 
